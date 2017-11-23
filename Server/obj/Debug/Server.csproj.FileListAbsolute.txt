@@ -1,0 +1,27 @@
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Server\bin\Debug\Server.exe.config
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Server\obj\Debug\Server.Properties.Resources.resources
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Server\bin\Debug\Server.exe
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Server\bin\Debug\Server.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Server\obj\Debug\Server.exe
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Server\obj\Debug\Server.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Server\obj\Debug\Server.ServerForm.resources
+F:\Let us chat\Server\bin\Debug\Server.exe.config
+F:\Let us chat\Server\obj\Debug\Server.exe
+F:\Let us chat\Server\obj\Debug\Server.pdb
+F:\Let us chat\Server\bin\Debug\Server.exe
+F:\Let us chat\Server\bin\Debug\Server.pdb
+F:\Let us chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\Let us chat\Server\obj\Debug\Server.ServerForm.resources
+F:\Let us chat\Server\obj\Debug\Server.Properties.Resources.resources
+F:\Let us chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Server\bin\Debug\Server.exe.config
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Server\obj\Debug\Server.exe
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Server\obj\Debug\Server.ServerForm.resources
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Server\obj\Debug\Server.Properties.Resources.resources
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Server\bin\Debug\Server.exe
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Server\bin\Debug\Server.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Server\obj\Debug\Server.pdb

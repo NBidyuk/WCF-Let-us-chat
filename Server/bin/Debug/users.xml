@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ListUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <users>
+    <User>
+      <messages />
+      <friends>
+        <users />
+      </friends>
+      <NickName>nat</NickName>
+      <Password>827CCB0EEA8A706C4C34A16891F84E7B</Password>
+      <online>false</online>
+    </User>
+  </users>
+</ListUser>

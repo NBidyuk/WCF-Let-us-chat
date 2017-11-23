@@ -1,0 +1,45 @@
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Let us chat\bin\Debug\Let us chat.exe.config
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Let us chat\bin\Debug\Let us chat.exe
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Let us chat\bin\Debug\Let us chat.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Let us chat\obj\Debug\Сlient.csprojResolveAssemblyReference.cache
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Let us chat\obj\Debug\Let_us_chat.Properties.Resources.resources
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Let us chat\obj\Debug\Сlient.csproj.GenerateResource.Cache
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Let us chat\obj\Debug\Let us chat.exe
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Let us chat\obj\Debug\Let us chat.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Let us chat\bin\Debug\Server.exe
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Let us chat\bin\Debug\Server.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Let us chat\obj\Debug\Let_us_chat.ClientForm.resources
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Let us chat\obj\Debug\Let_us_chat.NicknameForm.resources
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat\Let us chat\obj\Debug\Let_us_chat.FindFriendForm.resources
+F:\Let us chat\Let us chat\bin\Debug\Let us chat.exe.config
+F:\Let us chat\Let us chat\obj\Debug\Let us chat.exe
+F:\Let us chat\Let us chat\obj\Debug\Let us chat.pdb
+F:\Let us chat\Let us chat\bin\Debug\Let us chat.exe
+F:\Let us chat\Let us chat\bin\Debug\Let us chat.pdb
+F:\Let us chat\Let us chat\bin\Debug\Server.exe
+F:\Let us chat\Let us chat\bin\Debug\Server.pdb
+F:\Let us chat\Let us chat\obj\Debug\Сlient.csprojResolveAssemblyReference.cache
+F:\Let us chat\Let us chat\obj\Debug\Let_us_chat.ClientForm.resources
+F:\Let us chat\Let us chat\obj\Debug\Let_us_chat.FindFriendForm.resources
+F:\Let us chat\Let us chat\obj\Debug\Let_us_chat.NicknameForm.resources
+F:\Let us chat\Let us chat\obj\Debug\Let_us_chat.Properties.Resources.resources
+F:\Let us chat\Let us chat\obj\Debug\Сlient.csproj.GenerateResource.Cache
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Let us chat\bin\Debug\Let us chat.exe.config
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Let us chat\obj\Debug\Let us chat.exe
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Let us chat\obj\Debug\Let us chat.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Let us chat\bin\Debug\Let us chat.exe
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Let us chat\bin\Debug\Let us chat.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Let us chat\bin\Debug\Server.exe
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Let us chat\bin\Debug\Server.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Let us chat\obj\Debug\Сlient.csprojResolveAssemblyReference.cache
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Let us chat\obj\Debug\Let_us_chat.ClientForm.resources
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Let us chat\obj\Debug\Let_us_chat.FindFriendForm.resources
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Let us chat\obj\Debug\Let_us_chat.NicknameForm.resources
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Let us chat\obj\Debug\Let_us_chat.Properties.Resources.resources
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\Let us chat2\Let us chat\obj\Debug\Сlient.csproj.GenerateResource.Cache
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Let us chat2\Let us chat\bin\Debug\Let us chat.exe.config
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Let us chat2\Let us chat\obj\Debug\Let us chat.exe
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Let us chat2\Let us chat\obj\Debug\Let us chat.pdb
+D:\НАТАША\Шаг\Homework\Projects\WCF\Let us chat2\Let us chat\bin\Debug\Let us chat.exe.config
+D:\НАТАША\Шаг\Homework\Projects\WCF\Let us chat2\Let us chat\obj\Debug\Let us chat.exe
+D:\НАТАША\Шаг\Homework\Projects\WCF\Let us chat2\Let us chat\obj\Debug\Let us chat.pdb
